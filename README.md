@@ -1,3 +1,3 @@
 # Battleship-game
-Player vs Computer 
+Player vs Computer .
 Ships got special abilities .
