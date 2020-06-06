@@ -1,5 +1,5 @@
 # Battleship-game
-Player vs Computer\n.
+Player vs Computer.
 Ships got special abilities .
 Carrier - Attack twice .
 Battleship - Reveals local fields within radius of 1 square.
